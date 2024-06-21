@@ -5,7 +5,6 @@ Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly D
 
 
 <img src="./FOD-framework.jpg" width="800">
-<img src="./multiscale_pyramid.jpg" width="400">
 
 ![image](https://github.com/conel77/FOD_with_multiscale_pyramid/assets/81089768/4fc343cc-25f6-43ae-8ce4-d89d137268e1)
 
