@@ -1,6 +1,8 @@
 ## [Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection with multi-scale Pyramid](https://arxiv.org/abs/2308.02983)
 
 Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection & Added multi-scale pyramid framework
+(Inspired by Ghiasi, Golnaz, and Charless C. Fowlkes. "Laplacian pyramid reconstruction and refinement for semantic segmentation." Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part III 14. Springer International Publishing, 2016.)
+
 
 <img src="./FOD-framework.jpg" width="800">
 <img src="./multiscale_pyramid.jpg" width="800">
