@@ -1,6 +1,6 @@
-## [Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection](https://arxiv.org/abs/2308.02983)
+## [Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection with multi-scale Pyramid](https://arxiv.org/abs/2308.02983)
 
-PyTorch implementation and for ICCV2023 paper, Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection.
+Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection & Added multi-scale pyramid framework
 
 <img src="./FOD-framework.jpg" width="800">
 
