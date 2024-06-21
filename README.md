@@ -3,7 +3,7 @@
 Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection & Added multi-scale pyramid framework
 
 <img src="./FOD-framework.jpg" width="800">
-![image](https://github.com/conel77/FOD_with_multiscale_pyramid/assets/81089768/e48d0d88-8462-4f8c-9bfa-d02b1c0d6472)
+<img src="./multiscale_pyramid.jpg" width="800">
 
 
 ---
